@@ -1,0 +1,14 @@
+body {
+  background-color: lightpink;
+    font-family: arial;
+}
+
+h1 {
+  color: black;
+  text-align: left;
+}
+
+p {
+  font-size: 20px;
+  line-height: 2em;
+}
